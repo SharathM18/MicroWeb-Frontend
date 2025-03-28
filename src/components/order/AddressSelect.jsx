@@ -1,4 +1,4 @@
-import "../../style/addressSelect.css";
+import "../../style/AddressSelect.css";
 
 const AddressSelect = ({ address, isSelected, onSelect }) => {
   const {
