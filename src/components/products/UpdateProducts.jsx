@@ -8,7 +8,7 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 import axiosInstanceProducts from "../../utils/axiosInstanceProducts";
 
-import "../../style/addproduct.css";
+import "../../style/addProduct.css";
 import "../../style/category.css";
 
 const productSchema = z.object({
