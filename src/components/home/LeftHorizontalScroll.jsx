@@ -5,7 +5,7 @@ import apple_logo from "../../assets/images/apple.png";
 import google_logo from "../../assets/images/google.png";
 import hp_logo from "../../assets/images/hp.png";
 import microsoft_logo from "../../assets/images/microsoft.png";
-import samsung_logo from "../../assets/images/samsung.png";
+import samsung_logo from "../../assets/images/Samsung.png";
 
 function LeftHorizontalScroll() {
   return (
