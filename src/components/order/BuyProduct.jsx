@@ -11,7 +11,7 @@ import Loading from "../../utils/Loading";
 import AddressSelect from "./AddressSelect";
 import SelectedProduct from "./SelectedProduct";
 
-import "../../style/BuyProduct.css";
+import "../../style/buyProduct.css";
 
 const BuyProduct = () => {
   const navigate = useNavigate();
